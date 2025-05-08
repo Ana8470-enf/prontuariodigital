@@ -1,3 +1,10 @@
+# Prontuário Digital
+
+Prontuário Digital é um sistema de gerenciamento de prontuários médicos digitais desenvolvido para facilitar o armazenamento e a recuperação de dados de pacientes.
+
+## Estrutura do Projeto
+
+```plaintext
 prontuariodigital/
 ├── backend/
 │   ├── app/
